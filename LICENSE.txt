@@ -1,0 +1,24 @@
+Copyright (c) 2025 KING_SCAR
+
+This repository contains example files that demonstrate how to use the STDuino SDK.
+Please note: The STDuino SDK source code (core drivers, headers, and binaries) is proprietary and is NOT included in this repository.
+
+You are hereby granted a limited, non-exclusive, non-transferable license to:
+
+✓ View, use, and modify the example files located under the `examples/` directory
+✓ Use the examples for educational and personal learning purposes only
+
+You are strictly NOT permitted to:
+
+✗ Redistribute, sublicense, or repackage these examples as part of any other SDK, library, or commercial product
+✗ Reverse-engineer, copy, or reconstruct the proprietary STDuino SDK from the examples provided
+✗ Use any part of this repository for commercial purposes without prior written permission
+
+For access to the full SDK or for commercial licensing, please contact:
+
+ Author: Sandeep Ray (kingScarH)
+ Email: sandy.dgr4@gmail.com
+
+Violation of these terms may result in legal action under applicable copyright law.
+
+Thank you for respecting the intent of this educational project.
